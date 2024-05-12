@@ -21,8 +21,8 @@ const apiUrl =
   "&rule_id=" +
   RULE_ID +
   "&max_simultaneous=1" +
-  "&num_attempts=2" +
-  "&interval_seconds=15" +
+  "&num_attempts=3" +
+  "&interval_seconds=300" +
   "&priority=1" +
   "&name=CallList";
 
